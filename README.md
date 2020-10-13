@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on photo stacking algorithm for astrophotography.
+- 🔭 I’m currently working on game to support psychological education of children.
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on projects with php/Laravel on board.
 - 💬 Ask me about anything you want.
